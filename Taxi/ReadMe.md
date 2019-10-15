@@ -4,7 +4,7 @@
 
 1. **10-14-2019 Taxi_Trips.csv:** Taxi trips reported to the City of Chicago in its role as a regulatory agency.
   * **Size:**                 Approximately 57.9 GB
-  * **Source:**               [City of Chicago](data.citycityofchicago.org/Transportation/Taxi-Trips/wrvz-psew "City of Chicago")
+  * **Source:**               [City of Chicago](https://data.citycityofchicago.org/Transportation/Taxi-Trips/wrvz-psew "City of Chicago")
   * **Updated:**              October 10, 2019
   * **Retrieved:**            October 15, 2019
   * **Uploaded to Github:**   October 15, 2019
